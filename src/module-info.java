@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tassia
+ *
+ */
+module hellojava {
+}
